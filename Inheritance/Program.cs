@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Inheritance
 {
+    // Bu uygulamada nesne yönelimli programlamanın kalıtım özelliğini örnekler ile anlatımı bulunmaktadır.
     public class BaseKisi
     {
         // Ortak Özellikler
