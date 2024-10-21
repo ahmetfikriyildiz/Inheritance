@@ -53,15 +53,15 @@ namespace Inheritance
             Ogrenci ogrenci = new Ogrenci
             {
                 Ad = "Ahmet",
-                Soyad = "Yılmaz",
+                Soyad = "Yıldız",
                 OgrenciNumarasi = 12345
             };
 
             // Öğretmen nesnesi oluşturma ve değer atama
             Ogretmen ogretmen = new Ogretmen
             {
-                Ad = "Ayşe",
-                Soyad = "Kara",
+                Ad = "Fikri",
+                Soyad = "Yıldız",
                 Maas = 5000.00m
             };
 
